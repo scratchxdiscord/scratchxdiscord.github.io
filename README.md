@@ -1,2 +1,2 @@
 # scratchxdiscord.github.io
-An redirect to the official [website](https://scratch.xan.lol/)
+A redirect to the official [website](https://scratch.xan.lol/)
