@@ -1,2 +1,2 @@
 # scratchxdiscord.github.io
-An invitation and about site for those who don't know GitHub.
+An redirect to the official [website](https://scratch.xan.lol/)
